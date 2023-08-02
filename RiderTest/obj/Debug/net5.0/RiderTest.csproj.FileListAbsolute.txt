@@ -1,0 +1,16 @@
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\bin\Debug\net5.0\RiderTest.exe
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\bin\Debug\net5.0\RiderTest.deps.json
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\bin\Debug\net5.0\RiderTest.runtimeconfig.json
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\bin\Debug\net5.0\RiderTest.runtimeconfig.dev.json
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\bin\Debug\net5.0\RiderTest.dll
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\bin\Debug\net5.0\ref\RiderTest.dll
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\bin\Debug\net5.0\RiderTest.pdb
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\RiderTest.csproj.AssemblyReference.cache
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\RiderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\RiderTest.AssemblyInfoInputs.cache
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\RiderTest.AssemblyInfo.cs
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\RiderTest.csproj.CoreCompileInputs.cache
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\RiderTest.dll
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\ref\RiderTest.dll
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\RiderTest.pdb
+C:\Users\Artashes\RiderProjects\RiderTest\RiderTest\obj\Debug\net5.0\RiderTest.genruntimeconfig.cache
